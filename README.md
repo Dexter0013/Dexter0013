@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dexter0013
+- 👋 Hi, I’m Deepraj Singha (@Dexter0013)
 - 👀 I’m interested in Learning new things and experimenting with things that I have learned
 
 <!---
