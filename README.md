@@ -1,7 +1,6 @@
 # 💫 Hi, I’m Deepraj Singha (@Dexter0013):
 👀 I’m interested in Learning new things and experimenting with things that I have learned
-
-🛠️ The Core Motto: My main motto is to slack and satisfy quirks, automate the boring stuff to focus on technical rabbit holes matter.<br><br>🧠 AI/ML & Deep Learning: Experienced in high-performance models, including YOLO, DeepFace, and EfficientNet-B7.<br><br>🎮 Future Game Dev: On a mission to build 2.5D RPGs that blend playfulness with skill-up mechanics.<br><br>💻 Current Hustle: CSE student and AI/ML Enthusiast balancing academic rigor with real-world projects.<br><br>🤝 Community Lead: Serving as a GeeksforGeeks Campus Ambassador and leading initiatives at CodeClub and E-Cell BVEC.<br><br>⚡ Fun Fact: I organized multiple Competitive tournaments, proving that even my "slacking" is highly organized and competitive.
+<br>🛠️ My main motto is to slack and satisfy quirks, automate the boring stuff to focus on technical rabbit holes matter.<br>🧠 AI/ML & Deep Learning Experienced in high-performance models, including YOLO, DeepFace, and EfficientNet-B7.<br>🎮 Future Game Dev and on a mission to build 2.5D RPGs that blend playfulness with skill-up mechanics.<br><br>💻 Current Hustle: CSE student and AI/ML Enthusiast balancing academic rigor with real-world projects.<br><br>🤝 Community Lead: Serving as a GeeksforGeeks Campus Ambassador and leading initiatives at CodeClub and E-Cell BVEC.<br><br>⚡ Fun Fact: I organized multiple Competitive tournaments, proving that even my "slacking" is highly organized and competitive.
 
 
 ## 🌐 Socials:
