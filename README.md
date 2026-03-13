@@ -1,6 +1,36 @@
-# 💫 Hi, I’m Deepraj Singha (@Dexter0013):
-👀 I’m interested in Learning new things and experimenting with things that I have learned
-<br>🛠️ My main motto is to slack and satisfy quirks, automate the boring stuff to focus on technical rabbit holes that matter.<br>🧠 AI/ML & Deep Learning Experienced in high-performance models, including YOLO, DeepFace, and EfficientNet-B7.<br>🎮 Future Game Dev and on a mission to build 2.5D RPGs that blend playfulness with skill-up mechanics.<br><br>💻 Current Hustle: CSE student and AI/ML Enthusiast balancing academic rigor with real-world projects.<br><br>🤝 Community Lead: Serving as a GeeksforGeeks Campus Ambassador and leading initiatives at CodeClub and E-Cell BVEC.<br><br>⚡ Fun Fact: I organized multiple Competitive tournaments, proving that even my "slacking" is highly organized and competitive.
+# 👋 Hi, I'm Deepraj Singha
+
+### 🚀 AI/ML Developer | CSE Student | Community Lead
+
+I am a Computer Science & Engineering student at **Barak Valley Engineering College** with a focus on building data-driven solutions and high-performance models. My development philosophy is simple: **Automate the mundane to master the complex.** I thrive on technical "rabbit holes" and building systems that bridge the gap between academic theory and real-world deployment.
+
+---
+
+### 🧠 Technical Focus & Deep Learning
+I specialize in Computer Vision and AI-driven analytics, with hands-on experience in:
+* **High-Performance Models:** YOLO (v8/11), DeepFace, and EfficientNet-B7.
+* **AI Analytics:** Real-time dashboards for E-Waste and land-monitoring (AgroSentry).
+* **Automation:** Leveraging Python and Gemini API to build intelligent bots and scripts.
+
+### 🎮 Future-Facing: 2.5D RPG Development
+I am on a mission to merge **AI with Game Development**. I am currently architecting 2.5D RPGs that prioritize:
+* **Skill-up Mechanics:** Blending playfulness with technical progression.
+* **Intelligent NPCs:** Integrating LLMs and AI to enhance user engagement.
+
+### 🤝 Leadership & Community
+I believe in fostering a culture of competitive learning. You can find me leading initiatives here:
+* **GeeksforGeeks:** Serving as a Campus Ambassador.
+* **CodeClub & E-Cell BVEC:** Leading technical sessions on logic, pointers, and competitive programming.
+
+---
+
+### 🛠️ The Philosophy
+> "I automate to focus on the technical rabbit holes that matter. If it can be scripted, it should be, so I can spend more time on the challenges that require true creativity."
+
+### ⚡ Fun Fact
+I organize competitive tournaments with the same intensity I bring to my code. For me, even "slacking" is an exercise in highly organized optimization.
+
+---
 
 
 ## 🌐 Socials:
