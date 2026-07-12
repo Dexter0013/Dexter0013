@@ -41,7 +41,7 @@ I organize competitive tournaments with the same intensity I bring to my code. F
 # 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Dexter0013?cardType=level&theme=dracula&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 <t></t>
-<a href="https://gitfootball2026.vercel.app/dexter0013"><img src="https://gitfootball2026.vercel.app/dexter0013.png" width="240" alt="My gitfootball2026 card">
+<a href="https://gitfootball2026.vercel.app/dexter0013?country=in"><img src="https://gitfootball2026.vercel.app/dexter0013.png?country=in" width="240" alt="My gitfootball2026 card">
 </a>
 
 
