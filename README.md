@@ -22,17 +22,6 @@ I believe in fostering a culture of competitive learning. You can find me leadin
 * **GeeksforGeeks:** Serving as a Campus Ambassador.
 * **CodeClub & E-Cell BVEC:** Leading technical sessions on logic, pointers, and competitive programming.
 
----
-
-### 🛠️ The Philosophy
-> "I automate to focus on the technical rabbit holes that matter. If it can be scripted, it should be, so I can spend more time on the challenges that require true creativity."
-
-### ⚡ Fun Fact
-I organize competitive tournaments with the same intensity I bring to my code. For me, even "slacking" is an exercise in highly organized optimization.
-
----
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Deepraj_singha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Deepraj-Singha/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dexter_0017) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deeprajsingha1122@gmail.com) 
 
