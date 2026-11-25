@@ -5,7 +5,9 @@
 I am a Computer Science & Engineering student at **Barak Valley Engineering College** with a focus on building data-driven solutions and high-performance models. My development philosophy is simple: **Automate the mundane to master the complex.** I thrive on technical "rabbit holes" and building systems that bridge the gap between academic theory and real-world deployment.
 
 ---
-
+* **Tech & Deep Learning:** High-Perf Models (YOLO v8/11, DeepFace, EfficientNet-B7) | AI Analytics (E-Waste, AgroSentry) | Automation (Python, Gemini API)
+* **2.5D RPG Dev:** Skill-up Mechanics (playful tech progression) | Intelligent NPCs (LLM-driven engagement)
+* **Leadership:** GfG Campus Ambassador | CodeClub & E-Cell BVEC Tech Lead (logic, pointers, CP)
 ### 🧠 Technical Focus & Deep Learning
 * **High-Performance Models:** YOLO (v8/11), DeepFace, and EfficientNet-B7.
 * **AI Analytics:** Real-time dashboards for E-Waste and land-monitoring (AgroSentry).
