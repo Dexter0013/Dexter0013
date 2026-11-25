@@ -7,18 +7,15 @@ I am a Computer Science & Engineering student at **Barak Valley Engineering Coll
 ---
 
 ### 🧠 Technical Focus & Deep Learning
-I specialize in Computer Vision and AI-driven analytics, with hands-on experience in:
 * **High-Performance Models:** YOLO (v8/11), DeepFace, and EfficientNet-B7.
 * **AI Analytics:** Real-time dashboards for E-Waste and land-monitoring (AgroSentry).
 * **Automation:** Leveraging Python and Gemini API to build intelligent bots and scripts.
 
 ### 🎮 Future-Facing: 2.5D RPG Development
-I am on a mission to merge **AI with Game Development**. I am currently architecting 2.5D RPGs that prioritize:
 * **Skill-up Mechanics:** Blending playfulness with technical progression.
 * **Intelligent NPCs:** Integrating LLMs and AI to enhance user engagement.
 
 ### 🤝 Leadership & Community
-I believe in fostering a culture of competitive learning. You can find me leading initiatives here:
 * **GeeksforGeeks:** Serving as a Campus Ambassador.
 * **CodeClub & E-Cell BVEC:** Leading technical sessions on logic, pointers, and competitive programming.
 
