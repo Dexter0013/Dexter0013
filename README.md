@@ -1,4 +1,4 @@
-# 👋 Deepraj Singha | 🚀 AI/ML Developer | Community Lead
+# 👋 Deepraj Singha | 🚀 AI/ML Developer | 🤝 Community Lead
 
 I am a Computer Science & Engineering student at **Barak Valley Engineering College** with a focus on building data-driven solutions and high-performance models. My development philosophy is simple: **Automate the mundane to master the complex.** I thrive on technical "rabbit holes" and building systems that bridge the gap between academic theory and real-world deployment.
 
