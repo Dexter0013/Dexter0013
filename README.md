@@ -14,7 +14,7 @@ I am a Computer Science & Engineering student at **Barak Valley Engineering Coll
 # 📊 GitHub Stats:
 ![Dexter0013's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dexter0013&show_icons=true&bg_color=f8f9fa&title_color=0066ff&text_color=1f2937&icon_color=ff0055&border_color=e5e7eb&border_radius=12)<br>
 ![Dexter0013's GitHub Streak](https://streak-stats.demolab.com/?user=Dexter0013&background=f8f9fa&currStreakNum=1f2937&sideNums=1f2937&currStreakLabel=0066ff&sideLabels=0066ff&dates=6b7280&border=e5e7eb&border_radius=12)<br>
-<a href="https://gitfootball2026.vercel.app/dexter0013?country=in"><img src="https://gitfootball2026.vercel.app/dexter0013.png?country=in" width="240" alt="My gitfootball2026 card">
+<a href="https://gitfootball2026.vercel.app/dexter0013?country=in"><img src="https://gitfootball2026.vercel.app/dexter0013.png?country=in" width="140" alt="My gitfootball2026 card">
 </a>
 
 
