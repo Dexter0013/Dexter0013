@@ -162,7 +162,7 @@
         "card1GifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N0M3M3Nzd4NWRicHZzMW9uZGh5azhyamF1azd5bGx0enRsdjgxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bsRSKZhTXgDXa/giphy.gif",
         "card2Icon": "shield",
         "card2Text": "never give up",
-        "leftGifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNxeXdvaDdmdDYyeDV2djMwM2hhZjg4cWNxZzNsc2VoYjV4d21oYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4KD5yrLS9MxjlPFJHR/giphy.gif",
+        "leftGifUrl": "https://raw.githubusercontent.com/Dexter0013/Dexter0013/gitascii/Assets/giphy.gif",
         "card2GifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBueGVzOGg0d3ppemVseWR3YXlnb3YwZjVsMWM0YmtqejFob3NucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pO4a6pfemm0gZxN89O/giphy.gif"
       },
       "locked": false,
@@ -316,7 +316,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795684773881_c5zza",
-    "updatedAt": "2026-11-26T09:19:38.102Z"
+    "revision": "rev_1795685559712_boo57",
+    "updatedAt": "2026-11-26T09:32:43.687Z"
   }
 }
