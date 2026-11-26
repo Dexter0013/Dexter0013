@@ -147,7 +147,7 @@
       "name": "Codeweb-showcase-cards Widget",
       "position": {
         "x": 16,
-        "y": 952
+        "y": 950
       },
       "size": {
         "width": 776,
@@ -316,7 +316,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795685663384_psh39",
-    "updatedAt": "2026-11-26T09:34:27.383Z"
+    "revision": "rev_1795685749529_yzt9e",
+    "updatedAt": "2026-11-26T09:35:52.506Z"
   }
 }
