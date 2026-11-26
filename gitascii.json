@@ -11,7 +11,7 @@
       },
       "size": {
         "width": 800,
-        "height": 1192
+        "height": 1174
       },
       "config": {
         "borderColor": "#0d1117",
@@ -162,7 +162,7 @@
         "card1GifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N0M3M3Nzd4NWRicHZzMW9uZGh5azhyamF1azd5bGx0enRsdjgxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bsRSKZhTXgDXa/giphy.gif",
         "card2Icon": "shield",
         "card2Text": "never give up",
-        "leftGifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ216ZWV4Nng1b3d5eGR2OTRzMGZxcDd1eTBjY3FneWMzYzd1ZTA3ZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZQAuddtB45Q4Zw8gIl/giphy.gif",
+        "leftGifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBueGVzOGg0d3ppemVseWR3YXlnb3YwZjVsMWM0YmtqejFob3NucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pO4a6pfemm0gZxN89O/giphy.gif",
         "card2GifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBueGVzOGg0d3ppemVseWR3YXlnb3YwZjVsMWM0YmtqejFob3NucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pO4a6pfemm0gZxN89O/giphy.gif"
       },
       "locked": false,
@@ -316,7 +316,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795686714305_2f5c8",
-    "updatedAt": "2026-11-26T09:52:00.163Z"
+    "revision": "rev_1795686800863_25j06",
+    "updatedAt": "2026-11-26T09:53:25.075Z"
   }
 }
