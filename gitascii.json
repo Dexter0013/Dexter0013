@@ -2,6 +2,35 @@
   "username": "Dexter0013",
   "widgets": [
     {
+      "instanceId": "widget_c80e7ca0-f9fa-4068-bc33-4cc6b46f1993",
+      "widgetId": "custom-image",
+      "name": "Custom-image Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 1184
+      },
+      "config": {
+        "borderColor": "#0d1117",
+        "backgroundColor": "#0d1117",
+        "targetUrl": "",
+        "href": "",
+        "sourceType": "url",
+        "imageUrl": "https://raw.githubusercontent.com/Dexter0013/Dexter0013/gitascii/Assets/5052357.png",
+        "src": "https://raw.githubusercontent.com/Dexter0013/Dexter0013/gitascii/Assets/5052357.png",
+        "url": "https://raw.githubusercontent.com/Dexter0013/Dexter0013/gitascii/Assets/5052357.png",
+        "mode": "contain",
+        "showTitle": false,
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
       "widgetId": "surveillance-header",
       "name": "Surveillance-header Widget",
       "position": {
@@ -28,7 +57,7 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 1,
+      "zIndex": 2,
       "instanceId": "widget_1795627006026_0"
     },
     {
@@ -54,7 +83,7 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 2
+      "zIndex": 3
     },
     {
       "instanceId": "widget_340112ed-bf21-4a28-90db-e2948dfa128f",
@@ -86,7 +115,7 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 3
+      "zIndex": 4
     },
     {
       "instanceId": "widget_02596ac1-4f5e-4929-9848-c0aaae91befa",
@@ -110,7 +139,7 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 4
+      "zIndex": 5
     },
     {
       "instanceId": "widget_4dec29b9-37f7-4ba4-aed3-c8fe3bc645cc",
@@ -138,7 +167,7 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 5
+      "zIndex": 6
     },
     {
       "instanceId": "widget_330dec4e-3fef-4cb6-b885-174973a3c112",
@@ -269,35 +298,6 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 6
-    },
-    {
-      "instanceId": "widget_c80e7ca0-f9fa-4068-bc33-4cc6b46f1993",
-      "widgetId": "custom-image",
-      "name": "Custom-image Widget",
-      "position": {
-        "x": 55,
-        "y": 112
-      },
-      "size": {
-        "width": 680,
-        "height": 945
-      },
-      "config": {
-        "borderColor": "#0d1117",
-        "backgroundColor": "#0d1117",
-        "targetUrl": "",
-        "href": "",
-        "sourceType": "url",
-        "imageUrl": "https://raw.githubusercontent.com/Dexter0013/Dexter0013/main/Assets/5052357.png",
-        "src": "https://raw.githubusercontent.com/Dexter0013/Dexter0013/main/Assets/5052357.png",
-        "url": "https://raw.githubusercontent.com/Dexter0013/Dexter0013/main/Assets/5052357.png",
-        "mode": "contain",
-        "showTitle": false,
-        "hideBorder": true
-      },
-      "locked": false,
-      "visible": true,
       "zIndex": 7
     }
   ],
@@ -316,7 +316,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795684463229_qwn6a",
-    "updatedAt": "2026-11-26T09:14:28.396Z"
+    "revision": "rev_1795684773881_c5zza",
+    "updatedAt": "2026-11-26T09:19:38.102Z"
   }
 }
