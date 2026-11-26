@@ -280,18 +280,18 @@
         "y": 365
       },
       "size": {
-        "width": 245,
-        "height": 180
+        "width": 800,
+        "height": 240
       },
       "config": {
         "borderColor": "#0d1117",
         "backgroundColor": "#0d1117",
         "targetUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBueGVzOGg0d3ppemVseWR3YXlnb3YwZjVsMWM0YmtqejFob3NucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif",
         "href": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBueGVzOGg0d3ppemVseWR3YXlnb3YwZjVsMWM0YmtqejFob3NucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif",
-        "sourceType": "url",
-        "imageUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBueGVzOGg0d3ppemVseWR3YXlnb3YwZjVsMWM0YmtqejFob3NucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif",
-        "src": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBueGVzOGg0d3ppemVseWR3YXlnb3YwZjVsMWM0YmtqejFob3NucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif",
-        "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBueGVzOGg0d3ppemVseWR3YXlnb3YwZjVsMWM0YmtqejFob3NucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVCSsoKU5v6ZJLk07n/giphy.gif",
+        "sourceType": "suggestions",
+        "imageUrl": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif",
+        "src": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif",
+        "url": "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif",
         "mode": "contain",
         "showTitle": false,
         "hideBorder": true
@@ -316,7 +316,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795683343380_kcm7c",
-    "updatedAt": "2026-11-26T08:55:48.136Z"
+    "revision": "rev_1795683616343_ugdda",
+    "updatedAt": "2026-11-26T09:00:20.081Z"
   }
 }
