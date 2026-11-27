@@ -218,7 +218,7 @@
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">##</tspan><tspan fill="#30363d">────────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 11/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">##</tspan><tspan fill="#30363d">────────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 12/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">##</tspan><tspan fill="#30363d">────────────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 11/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e"></tspan><tspan fill="#30363d">──────────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold">  3/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">#</tspan><tspan fill="#30363d">─────────────</tspan>] <tspan fill="#3fb950" font-weight="bold">  9/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -259,7 +259,7 @@
     <text x="20" y="177"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintenance   </tspan>[<tspan fill="#39c5cf">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 27/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Project Health</tspan>[<tspan fill="#3fb950">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 27/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">20/100</tspan>    <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">21/100</tspan>    <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="245"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-5">
@@ -275,14 +275,14 @@
     <text x="20" y="177"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintenance   </tspan>[<tspan fill="#39c5cf">#####</tspan><tspan fill="#30363d">─────────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 33/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Project Health</tspan>[<tspan fill="#3fb950">#####</tspan><tspan fill="#30363d">─────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 33/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">25/100</tspan>    <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">26/100</tspan>    <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="245"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-6">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">#####</tspan><tspan fill="#30363d">─────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 34/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">#####</tspan><tspan fill="#30363d">─────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 35/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">#####</tspan><tspan fill="#30363d">─────────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 34/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">#</tspan><tspan fill="#30363d">─────────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 10/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 28/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -291,14 +291,14 @@
     <text x="20" y="177"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintenance   </tspan>[<tspan fill="#39c5cf">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 40/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Project Health</tspan>[<tspan fill="#3fb950">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 40/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">30/100</tspan>    <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">31/100</tspan>    <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="245"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-7">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 40/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 41/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 40/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">##</tspan><tspan fill="#30363d">────────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 12/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">#####</tspan><tspan fill="#30363d">─────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 33/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -307,7 +307,7 @@
     <text x="20" y="177"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintenance   </tspan>[<tspan fill="#39c5cf">#######</tspan><tspan fill="#30363d">───────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 47/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Project Health</tspan>[<tspan fill="#3fb950">#######</tspan><tspan fill="#30363d">───────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 47/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">35/100</tspan>    <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">36/100</tspan>    <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="245"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-8">
@@ -346,7 +346,7 @@
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">########</tspan><tspan fill="#30363d">──────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 57/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">########</tspan><tspan fill="#30363d">──────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 58/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">########</tspan><tspan fill="#30363d">──────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 57/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">##</tspan><tspan fill="#30363d">────────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 17/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">#######</tspan><tspan fill="#30363d">───────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 47/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -362,7 +362,7 @@
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">#########</tspan><tspan fill="#30363d">─────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 63/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">#########</tspan><tspan fill="#30363d">─────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 64/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">#########</tspan><tspan fill="#30363d">─────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 62/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">###</tspan><tspan fill="#30363d">───────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 18/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">#######</tspan><tspan fill="#30363d">───────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 51/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -378,7 +378,7 @@
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">##########</tspan><tspan fill="#30363d">────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 69/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">##########</tspan><tspan fill="#30363d">────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 70/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">##########</tspan><tspan fill="#30363d">────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 68/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">###</tspan><tspan fill="#30363d">───────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 20/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">########</tspan><tspan fill="#30363d">──────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 56/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -387,7 +387,7 @@
     <text x="20" y="177"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintenance   </tspan>[<tspan fill="#39c5cf">###########</tspan><tspan fill="#30363d">───</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 80/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Project Health</tspan>[<tspan fill="#3fb950">###########</tspan><tspan fill="#30363d">───</tspan>] <tspan fill="#3fb950" font-weight="bold"> 80/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">61/100</tspan>    <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">62/100</tspan>    <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="245"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-13">
@@ -403,14 +403,14 @@
     <text x="20" y="177"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintenance   </tspan>[<tspan fill="#39c5cf">############</tspan><tspan fill="#30363d">──</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 87/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Project Health</tspan>[<tspan fill="#3fb950">############</tspan><tspan fill="#30363d">──</tspan>] <tspan fill="#3fb950" font-weight="bold"> 87/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">66/100</tspan>    <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">67/100</tspan>    <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="245"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-14">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">###########</tspan><tspan fill="#30363d">───</tspan>] <tspan fill="#3fb950" font-weight="bold"> 80/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">###########</tspan><tspan fill="#30363d">───</tspan>] <tspan fill="#3fb950" font-weight="bold"> 81/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">###########</tspan><tspan fill="#30363d">───</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 79/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">###</tspan><tspan fill="#30363d">───────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 23/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">#########</tspan><tspan fill="#30363d">─────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 65/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -419,14 +419,14 @@
     <text x="20" y="177"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintenance   </tspan>[<tspan fill="#39c5cf">#############</tspan><tspan fill="#30363d">─</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 93/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Project Health</tspan>[<tspan fill="#3fb950">#############</tspan><tspan fill="#30363d">─</tspan>] <tspan fill="#3fb950" font-weight="bold"> 93/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">71/100</tspan>    <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">72/100</tspan>    <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="245"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
   </g>
   <g class="frame-15">
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">############</tspan><tspan fill="#30363d">──</tspan>] <tspan fill="#3fb950" font-weight="bold"> 86/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">############</tspan><tspan fill="#30363d">──</tspan>] <tspan fill="#3fb950" font-weight="bold"> 87/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">############</tspan><tspan fill="#30363d">──</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 85/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 25/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">##########</tspan><tspan fill="#30363d">────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 70/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -435,7 +435,7 @@
     <text x="20" y="177"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Maintenance   </tspan>[<tspan fill="#39c5cf">##############</tspan><tspan fill="#30363d"></tspan>] <tspan fill="#39c5cf" font-weight="bold">100/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="194"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Project Health</tspan>[<tspan fill="#3fb950">##############</tspan><tspan fill="#30363d"></tspan>] <tspan fill="#3fb950" font-weight="bold">100/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="211"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">76/100</tspan>    <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="228"><tspan fill="#30363d">│</tspan>  <tspan fill="#3fb950" font-weight="bold">A RANK                </tspan> <tspan fill="#8b949e">TOTAL SCORE:</tspan> <tspan fill="#ffbd2e" font-weight="bold">77/100</tspan>    <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="245"><tspan fill="#30363d">└────────────────────────────────────────────────┘</tspan></text>
   </g>
 
@@ -451,7 +451,7 @@
       <rect class="" x="0" y="0" width="552" height="249" fill="transparent" stroke="#1a1424" stroke-width="0" rx="1" />
       
       <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#1a2e22">─</tspan><tspan fill="#00ff88"> Dexter0013@github </tspan><tspan fill="#1a2e22">──────────────────────────────────────────</tspan></text>
-<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#55ffff">. Uptime: </tspan><tspan fill="#2e4c38">..........................</tspan><tspan fill="#e6edf3"> 2 years, 4 months, 3 days</tspan></text>
+<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#55ffff">. Uptime: </tspan><tspan fill="#2e4c38">..........................</tspan><tspan fill="#e6edf3"> 2 years, 4 months, 4 days</tspan></text>
 <text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#55ffff">. Location: </tspan><tspan fill="#2e4c38">.....................................</tspan><tspan fill="#e6edf3"> Assam, India</tspan></text>
 <text x="12" y="74" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#55ffff">. Languages: </tspan><tspan fill="#2e4c38">.......</tspan><tspan fill="#e6edf3"> PHP, Jupyter Notebook, HTML, Java, Python</tspan></text>
 <text x="12" y="100" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#1a2e22">─</tspan><tspan fill="#00ff88"> Contact </tspan><tspan fill="#1a2e22">────────────────────────────────────────────────────</tspan></text>
